@@ -1,4 +1,5 @@
 Project Status: In Progress
+
 This project is a full-stack Airbnb clone built using the MERN stack – MongoDB, Express.js, React, and Node.js. 
 It replicates key features of the Airbnb platform, including property listings, user authentication, booking functionality, and more. 
 The goal of this project is to gain hands-on experience with full-stack development and understand how different technologies integrate in a real-world application.
